@@ -1,0 +1,2 @@
+# coin
+the next bitcoin
